@@ -1,1 +1,1 @@
-# golang_l2
+# Golan course: L2
